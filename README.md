@@ -28,6 +28,10 @@
 - [docs/FEATURE_AUDIT.md](docs/FEATURE_AUDIT.md)：功能對照表與待驗證事項。
 - [docs/DIFFICULTY_DESIGN.md](docs/DIFFICULTY_DESIGN.md)：難度系統規格草案。
 - [docs/CODEX_PHASE1.md](docs/CODEX_PHASE1.md)：第一階段供 Codex 使用的稽核指令。
+- [docs/STORY_REQUIREMENTS.md](docs/STORY_REQUIREMENTS.md)：劇情模式畫面、事件與系統需求。
+- [docs/TEST_CASES.md](docs/TEST_CASES.md)：戰鬥、地圖、難度、存檔驗收測試。
+- [docs/PRE_CODEX_CHECKLIST.md](docs/PRE_CODEX_CHECKLIST.md)：無法使用 Codex 時的準備項目。
+- [docs/DECISIONS_AND_HANDOFF.md](docs/DECISIONS_AND_HANDOFF.md)：已定與待定事項、Codex 交接指令。
 
 ## 目前進度
 
